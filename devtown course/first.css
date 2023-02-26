@@ -1,0 +1,24 @@
+/* this is external css */
+
+.style-css {
+    background-color: #cf78af;
+    color: #797bc4;
+    border: 3px dotted black;
+}
+
+#my-id {
+    color: #F7C8E0;
+    border: 3px dotted black;
+}
+
+p {
+    background-color: azure;
+}
+
+header {
+    background-color: #F7C8E0;
+}
+
+footer {
+    background-color: #F7C8E0;
+}
